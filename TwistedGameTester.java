@@ -409,8 +409,8 @@ public class TwistedGameTester {
     public static void main(String[] args) {
         minScore=-1;
         maxScore=-1;
-        int startValue=100;
-        int endValue=200;
+        int startValue=2;
+        int endValue=2;
         printOtherStuff=true;
         scores=new ArrayList<Double>();
         for(int i=startValue;i<endValue;i++) {
